@@ -61,7 +61,7 @@ The point is not performance, but **predictability and debuggability**.
 ## Related article
 
 📖 Full explanation, benchmark analysis, and failure taxonomy:
-👉 [https://dev.to/YOUR_USERNAME/YOUR_POST_SLUG](https://dev.to/YOUR_USERNAME/YOUR_POST_SLUG)
+👉 [https://dev.to/ertugrulmutlu/i-intentionally-built-a-bad-decision-system-so-you-dont-have-to-417j](https://dev.to/ertugrulmutlu/i-intentionally-built-a-bad-decision-system-so-you-dont-have-to-417j)
 
 ---
 
